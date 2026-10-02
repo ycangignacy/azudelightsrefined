@@ -1,0 +1,7 @@
+{
+  "credit": "made by ycangignacy",
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "azudelightsrefined:item/unbaked_cinnamon_roll"
+  }
+}
